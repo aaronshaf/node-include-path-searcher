@@ -1,6 +1,6 @@
 # include-path-searcher
 
-[![Build Status](https://travis-ci.org/joliss/include-path-searcher.png?branch=master)](https://travis-ci.org/joliss/include-path-searcher)
+[![Build Status](https://travis-ci.org/joliss/node-include-path-searcher.png?branch=master)](https://travis-ci.org/joliss/node-include-path-searcher)
 
 Utility functions for searching multiple include paths.
 
